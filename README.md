@@ -1,5 +1,5 @@
 # stylelint-config-syzygy-scss
-SYZYGY config for CSS &amp; SCSS
+> SYZYGY [`stylelint`](https://github.com/stylelint/stylelint) config for CSS & SCSS
 
 ## Installation
 

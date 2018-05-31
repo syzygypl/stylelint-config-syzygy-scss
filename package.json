@@ -1,7 +1,7 @@
 {
   "name": "stylelint-config-syzygy-scss",
   "version": "1.0.0",
-  "description": "SYZYGY config for CSS & SCSS",
+  "description": "SYZYGY stylelint config for CSS & SCSS",
   "keywords": [
     "stylelint",
     "stylelint-config",
