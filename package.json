@@ -1,0 +1,30 @@
+{
+  "name": "stylelint-config-syzygy-scss",
+  "version": "1.0.0",
+  "description": "SYZYGY config for CSS & SCSS",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "stylelint-scss"
+  ],
+  "author": "SYZYGY Warsaw",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syzygypl/stylelint-config-syzygy-scss.git"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "stylelint-config-recommended-scss": "^3.2.0",
+    "stylelint-config-standard": "^18.2.0"
+  },
+  "devDependencies": {
+    "stylelint": "^9.2.1"
+  },
+  "peerDependencies": {
+    "stylelint": "^8.3.0 || ^9.0.0"
+  }
+}
