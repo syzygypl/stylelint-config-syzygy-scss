@@ -3,6 +3,12 @@
 
 ## Installation
 
+Make sure you have `stylelint` and `stylelint-scss` plugin installed:
+```bash
+npm install --save-dev stylelint stylelint-scss
+```
+
+then install the config:
 ```bash
 npm install --save-dev stylelint-config-syzygy-scss
 ```
