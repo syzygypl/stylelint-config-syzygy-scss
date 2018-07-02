@@ -17,6 +17,9 @@ module.exports = {
     "declaration-empty-line-before": "never",
     "value-list-max-empty-lines": 0,
 
+    "selector-pseudo-element-colon-notation": "double",
+    "color-named": "never",
+
     "declaration-no-important": true,
     "declaration-block-no-duplicate-properties": true,
 
