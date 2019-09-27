@@ -17,14 +17,19 @@
   "files": [
     "index.js"
   ],
+  "engines": {
+    "node": "10.16.3"
+  },
   "dependencies": {
-    "stylelint-config-recommended-scss": "^3.2.0",
-    "stylelint-config-standard": "^18.2.0"
+    "stylelint-config-recommended-scss": "^4.0.0",
+    "stylelint-config-standard": "^19.0.0"
   },
   "devDependencies": {
-    "stylelint": "^9.2.1"
+    "stylelint": "^11.0.0",
+    "stylelint-scss": "^3.0.0"
   },
   "peerDependencies": {
-    "stylelint": "^8.3.0 || ^9.0.0"
+    "stylelint": ">=10.1.0",
+    "stylelint-scss": "^3.0.0"
   }
 }
