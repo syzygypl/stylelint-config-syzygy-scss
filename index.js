@@ -51,6 +51,7 @@ module.exports = {
         "after-comment",
       ],
       "ignoreAtRules": [
+        "use",
         "import",
         "include",
         "else",
