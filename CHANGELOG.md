@@ -1,3 +1,6 @@
+# 1.1.4
+-   Don't force no-empty line before `@use`. 
+
 # 1.1.0 - 1.1.3
 -   Update all outdated dependencies
 
