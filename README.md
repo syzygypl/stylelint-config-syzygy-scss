@@ -1,5 +1,11 @@
 # stylelint-config-syzygy-scss
-> SYZYGY [`stylelint`](https://github.com/stylelint/stylelint) config for CSS & SCSS
+SYZYGY [`stylelint`](https://github.com/stylelint/stylelint) config for CSS & SCSS
+
+> **_NOTE:_**
+> [Stylelint plans to remove stylistic rules](https://stylelint.io/migration-guide/to-15/#deprecated-stylistic-rules)
+> in favour of pretty printers. Many rules are currently deprecated and will be removed in new major release.
+> Take it into consideration and configure Prettier or similar beforehand. To do so disable in your stylelint config
+> all the rules marked with the comment `// deprecated` here in `index.js`. 
 
 ## Installation
 
