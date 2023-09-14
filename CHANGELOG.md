@@ -1,4 +1,4 @@
-# TBA
+# 3.0.0
 - Upgrade dependencies: `stylelint` (^14) and `stylelint-scss` (^5).
 
 # 2.0.0
