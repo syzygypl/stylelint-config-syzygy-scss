@@ -1,5 +1,6 @@
 # TBA
 - [Remove deprecated Stylelint rules](https://stylelint.io/migration-guide/to-15/#deprecated-stylistic-rules)
+- Upgrade dependencies: `stylelint` (^16) and `stylelint-scss` (^6).
 
 # 3.0.0
 - Upgrade dependencies: `stylelint` (^14) and `stylelint-scss` (^5).
