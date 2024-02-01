@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-syzygy-scss",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "SYZYGY stylelint config for CSS & SCSS",
   "keywords": [
     "stylelint",
@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/syzygypl/stylelint-config-syzygy-scss.git"
+    "url": "git+https://github.com/syzygypl/stylelint-config-syzygy-scss.git"
   },
   "main": "index.js",
   "files": [
